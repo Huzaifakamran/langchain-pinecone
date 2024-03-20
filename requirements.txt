@@ -1,0 +1,12 @@
+langchain-community
+datetime
+python-dotenv
+streamlit
+langchain
+PyPDF2
+langchain-openai
+openai
+tiktoken
+pinecone-client
+python-docx
+langchain-pinecone
